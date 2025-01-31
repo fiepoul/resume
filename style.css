@@ -48,18 +48,10 @@
     .contact-info {
       margin-bottom: 20px;
     }
-
-    .linkedin-link {
-        text-decoration: none; 
-        color: inherit; 
-      }
-      
-      .linkedin-link:hover {
-        text-decoration: underline; 
-      }
     
     .email ,
-    .phone {
+    .phone,
+    .linkedin {
       color: #999;
       font-weight: 300;
     } 
